@@ -13,5 +13,15 @@
     "market": "international"
   },
   "sections": {
+    "featured_collection": {
+      "disabled": false,
+      "settings": {
+        "title": "",
+        "description": "",
+        "description_style": "body"
+      },
+      "blocks": {
+      }
+    }
   }
 }
